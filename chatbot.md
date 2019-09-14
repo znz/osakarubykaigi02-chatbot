@@ -18,6 +18,13 @@ allotted-time
 theme
 :   lightning-simple
 
+# 自己紹介
+
+- 西山 和広
+- Ruby のコミッター
+- twitter, github など: @znz
+- 株式会社Ruby開発 www.ruby-dev.jp
+
 # Agenda
 
 - チャットとは
