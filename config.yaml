@@ -1,0 +1,20 @@
+---
+id: osakarubykaigi02-chatbot
+base_name: chatbot
+tags:
+- ruby
+presentation_date: 2019/09/15
+version: 2019.09.15
+licenses: []
+slideshare_id:
+speaker_deck_id:
+ustream_id:
+vimeo_id:
+youtube_id:
+author:
+  markup_language: :markdown
+  name: Kazuhiro NISHIYAMA
+  email: zn@mbf.nifty.com
+  rubygems_user: znz
+  slideshare_user: znzjp
+  speaker_deck_user: znz
