@@ -4,7 +4,7 @@ author
 :   Kazuhiro NISHIYAMA
 
 content-source
-:   Osaka RubyKaigi 02
+:   Osaka RubyKaigi 02 #osrk02
 
 date
 :   2019/09/15
